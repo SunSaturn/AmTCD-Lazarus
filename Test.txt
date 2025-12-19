@@ -1,0 +1,3 @@
+[main]
+Key=99
+Text= џѓџѓCџШјѓCУѓџРniУѓџѓCќћјѓCќѓќРniќѓќѓMMMni
